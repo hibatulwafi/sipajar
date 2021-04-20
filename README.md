@@ -1,6 +1,6 @@
 ## About E NPA WEB
 
-E-NPA Wen Kota sukabumi, merupakan aplikasi yang dibuat untuk pembayaran pajak air tanah di kota sukabumi
+E-NPA Web Kota sukabumi, merupakan aplikasi yang dibuat untuk pembayaran pajak air tanah di kota sukabumi
 
 ## Installasi
 - Download repository dan ekstrak atau clone repository
